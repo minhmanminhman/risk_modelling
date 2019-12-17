@@ -1,0 +1,3 @@
+pandas
+numpy
+nelson_siegel_svenssonson
