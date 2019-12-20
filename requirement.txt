@@ -1,3 +1,7 @@
 pandas
 numpy
-nelson_siegel_svenssonson
+nelson-siegel-svensson
+matplotlib
+statsmodels
+mpl_toolkits
+seaborn
